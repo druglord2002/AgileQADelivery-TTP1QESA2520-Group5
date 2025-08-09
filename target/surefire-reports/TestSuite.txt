@@ -1,0 +1,85 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 9, Errors: 0, Skipped: 0, Time elapsed: 59.54 s <<< FAILURE! -- in TestSuite
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](3) -- Time elapsed: 3.644 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](4) -- Time elapsed: 3.639 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](5) -- Time elapsed: 3.866 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](6) -- Time elapsed: 3.513 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](7) -- Time elapsed: 3.309 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](8) -- Time elapsed: 3.252 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](9) -- Time elapsed: 3.373 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](10) -- Time elapsed: 3.280 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+
+com.cab.cucumber.runners.Runner.runScenario["Verify all the present fields with invalid input", "Booking Functionality"](11) -- Time elapsed: 3.334 s <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:79)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+

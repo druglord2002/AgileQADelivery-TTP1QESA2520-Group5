@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="75.128" tests="16" skipped="0" failures="9" errors="0" timestamp="2025-07-28T09:51:10.798017700Z">
+<testcase classname="Booking Functionality" name="Verify all the present fields with valid input - #1.1" time="6.522">
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with valid input for "1"..........................passed
+And click the Book Now button...............................................passed
+Then verify the valid data..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with valid input - #1.2" time="3.522">
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with valid input for "2"..........................passed
+And click the Book Now button...............................................passed
+Then verify the valid data..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.1" time="3.761">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "1"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.2" time="3.998">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "2"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.3" time="3.883">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "3"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.4" time="3.57">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "4"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.5" time="4.576">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "5"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.6" time="4.223">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "6"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.7" time="3.844">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "7"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.8" time="3.399">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "8"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with invalid input - #1.9" time="13.246">
+<failure type="java.lang.AssertionError" message="expected [true] but found [false]">
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at com.cab.cucumber.definitions.Booking.verify_the_invalid_data(Booking.java:80)
+	at ✽.verify the invalid data(file:///C:/Users/hp/eclipse-workspace/AgileQADelivery-TTP1QESA2520-Group5/src/test/java/com/cab/cucumber/features/Booking.feature:19)
+]]>
+</failure>
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When Enter all the fields with invalid input for "9"........................passed
+And click the Book Now button...............................................passed
+Then verify the invalid data................................................failed
+]]></system-out>
+</testcase>
+<testcase classname="Booking Functionality" name="Verify all the present fields with blank input" time="7.432">
+<system-out><![CDATA[
+Given Navigate to Booking Page..............................................passed
+When click the Book Now button with blank data..............................passed
+Then verify blank data......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="cab services" name="Verify Mini Car Service Link - #1.1" time="2.806">
+<system-out><![CDATA[
+Given Navigate to Services Page.............................................passed
+When I click the "Mini" cab service link....................................passed
+Then verify the car image and details for the "Mini" which contains the "Mini Cars".passed
+]]></system-out>
+</testcase>
+<testcase classname="cab services" name="Verify Mini Car Service Link - #1.2" time="2.753">
+<system-out><![CDATA[
+Given Navigate to Services Page.............................................passed
+When I click the "Micro" cab service link...................................passed
+Then verify the car image and details for the "Micro" which contains the "Micro Cars".passed
+]]></system-out>
+</testcase>
+<testcase classname="cab services" name="Verify Mini Car Service Link - #1.3" time="2.726">
+<system-out><![CDATA[
+Given Navigate to Services Page.............................................passed
+When I click the "SUV" cab service link.....................................passed
+Then verify the car image and details for the "SUV" which contains the "Suv Cars".passed
+]]></system-out>
+</testcase>
+<testcase classname="cab services" name="Verify Mini Car Service Link - #1.4" time="2.966">
+<system-out><![CDATA[
+Given Navigate to Services Page.............................................passed
+When I click the "Sedan" cab service link...................................passed
+Then verify the car image and details for the "Sedan" which contains the "Sedan Cars".passed
+]]></system-out>
+</testcase>
+</testsuite>
