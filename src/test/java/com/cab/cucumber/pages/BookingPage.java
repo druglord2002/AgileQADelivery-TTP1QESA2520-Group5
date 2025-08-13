@@ -14,7 +14,7 @@ import com.cab.cucumber.utils.Reports;
 	
 
 public class BookingPage extends BasePage{
-	private static final Logger log=LogManager.getLogger(HomePage.class);
+	private static final Logger log=LogManager.getLogger(BookingPage.class);
 	
 	@FindBy(xpath="//input[@id='fullname']") WebElement fullName;
 	@FindBy(xpath="//input[@id='phonenumber']") WebElement phoneNumber;

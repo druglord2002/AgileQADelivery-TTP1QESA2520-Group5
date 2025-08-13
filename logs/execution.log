@@ -296,3 +296,152 @@
 2025-08-04 10:04:14 [main] INFO  - Clicking SUV button
 2025-08-04 10:04:16 [main] INFO  - Clicking Services link
 2025-08-04 10:04:16 [main] INFO  - Clicking Sedan button
+2025-08-12 13:00:18 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:19 [main] INFO  - Name successfully sent
+2025-08-12 13:00:19 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:19 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:19 [main] INFO  - Local trip successfully clicked
+2025-08-12 13:00:19 [main] INFO  - cab successfully selected
+2025-08-12 13:00:20 [main] INFO  - car type selected
+2025-08-12 13:00:20 [main] INFO  - date selected
+2025-08-12 13:00:20 [main] INFO  - time entered
+2025-08-12 13:00:20 [main] INFO  - passenger number selected
+2025-08-12 13:00:20 [main] INFO  - Booking confirmed
+2025-08-12 13:00:20 [main] INFO  - Valid result displayed
+2025-08-12 13:00:22 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:22 [main] INFO  - Name successfully sent
+2025-08-12 13:00:22 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:22 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:23 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:23 [main] INFO  - cab successfully selected
+2025-08-12 13:00:23 [main] INFO  - car type selected
+2025-08-12 13:00:23 [main] INFO  - date selected
+2025-08-12 13:00:23 [main] INFO  - time entered
+2025-08-12 13:00:23 [main] INFO  - passenger number selected
+2025-08-12 13:00:23 [main] INFO  - One way trip type selected
+2025-08-12 13:00:23 [main] INFO  - Booking confirmed
+2025-08-12 13:00:23 [main] INFO  - Valid result displayed
+2025-08-12 13:00:26 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:26 [main] INFO  - Name successfully sent
+2025-08-12 13:00:26 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:26 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:26 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:26 [main] INFO  - cab successfully selected
+2025-08-12 13:00:26 [main] INFO  - car type selected
+2025-08-12 13:00:26 [main] INFO  - date selected
+2025-08-12 13:00:27 [main] INFO  - time entered
+2025-08-12 13:00:27 [main] INFO  - passenger number selected
+2025-08-12 13:00:27 [main] INFO  - One way trip type selected
+2025-08-12 13:00:27 [main] INFO  - Booking confirmed
+2025-08-12 13:00:27 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:29 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:29 [main] INFO  - Name successfully sent
+2025-08-12 13:00:29 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:29 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:29 [main] INFO  - Local trip successfully clicked
+2025-08-12 13:00:30 [main] INFO  - cab successfully selected
+2025-08-12 13:00:30 [main] INFO  - car type selected
+2025-08-12 13:00:30 [main] INFO  - date selected
+2025-08-12 13:00:30 [main] INFO  - time entered
+2025-08-12 13:00:30 [main] INFO  - passenger number selected
+2025-08-12 13:00:30 [main] INFO  - Booking confirmed
+2025-08-12 13:00:30 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:32 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:33 [main] INFO  - Name successfully sent
+2025-08-12 13:00:33 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:33 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:33 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:33 [main] INFO  - cab successfully selected
+2025-08-12 13:00:33 [main] INFO  - car type selected
+2025-08-12 13:00:33 [main] INFO  - date selected
+2025-08-12 13:00:33 [main] INFO  - time entered
+2025-08-12 13:00:33 [main] INFO  - passenger number selected
+2025-08-12 13:00:34 [main] INFO  - One way trip type selected
+2025-08-12 13:00:34 [main] INFO  - Booking confirmed
+2025-08-12 13:00:34 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:36 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:36 [main] INFO  - Name successfully sent
+2025-08-12 13:00:36 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:36 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:36 [main] INFO  - Local trip successfully clicked
+2025-08-12 13:00:36 [main] INFO  - cab successfully selected
+2025-08-12 13:00:36 [main] INFO  - car type selected
+2025-08-12 13:00:36 [main] INFO  - date selected
+2025-08-12 13:00:36 [main] INFO  - time entered
+2025-08-12 13:00:37 [main] INFO  - passenger number selected
+2025-08-12 13:00:37 [main] INFO  - One way trip type selected
+2025-08-12 13:00:37 [main] INFO  - Booking confirmed
+2025-08-12 13:00:37 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:39 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:39 [main] INFO  - Name successfully sent
+2025-08-12 13:00:39 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:39 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:39 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:40 [main] INFO  - cab successfully selected
+2025-08-12 13:00:40 [main] INFO  - car type selected
+2025-08-12 13:00:40 [main] INFO  - date selected
+2025-08-12 13:00:40 [main] INFO  - time entered
+2025-08-12 13:00:40 [main] INFO  - passenger number selected
+2025-08-12 13:00:40 [main] INFO  - Booking confirmed
+2025-08-12 13:00:40 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:42 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:43 [main] INFO  - Name successfully sent
+2025-08-12 13:00:43 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:43 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:43 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:43 [main] INFO  - cab successfully selected
+2025-08-12 13:00:43 [main] INFO  - car type selected
+2025-08-12 13:00:43 [main] INFO  - date selected
+2025-08-12 13:00:43 [main] INFO  - time entered
+2025-08-12 13:00:43 [main] INFO  - passenger number selected
+2025-08-12 13:00:43 [main] INFO  - One way trip type selected
+2025-08-12 13:00:43 [main] INFO  - Booking confirmed
+2025-08-12 13:00:43 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:46 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:46 [main] INFO  - Name successfully sent
+2025-08-12 13:00:46 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:46 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:46 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:46 [main] INFO  - cab successfully selected
+2025-08-12 13:00:46 [main] INFO  - car type selected
+2025-08-12 13:00:46 [main] INFO  - date selected
+2025-08-12 13:00:46 [main] INFO  - time entered
+2025-08-12 13:00:47 [main] INFO  - passenger number selected
+2025-08-12 13:00:47 [main] INFO  - One way trip type selected
+2025-08-12 13:00:47 [main] INFO  - Booking confirmed
+2025-08-12 13:00:47 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:49 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:49 [main] INFO  - Name successfully sent
+2025-08-12 13:00:49 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:49 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:49 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:49 [main] INFO  - cab successfully selected
+2025-08-12 13:00:50 [main] INFO  - car type selected
+2025-08-12 13:00:50 [main] INFO  - date selected
+2025-08-12 13:00:50 [main] INFO  - time entered
+2025-08-12 13:00:50 [main] INFO  - passenger number selected
+2025-08-12 13:00:50 [main] INFO  - Booking confirmed
+2025-08-12 13:00:50 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:52 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:52 [main] INFO  - Name successfully sent
+2025-08-12 13:00:52 [main] INFO  - Phone number successfully sent
+2025-08-12 13:00:52 [main] INFO  - Mail successfully sent
+2025-08-12 13:00:52 [main] INFO  - Long trip successfully clicked
+2025-08-12 13:00:53 [main] INFO  - cab successfully selected
+2025-08-12 13:00:53 [main] INFO  - car type selected
+2025-08-12 13:00:53 [main] INFO  - date selected
+2025-08-12 13:00:53 [main] INFO  - time entered
+2025-08-12 13:00:53 [main] INFO  - passenger number selected
+2025-08-12 13:00:53 [main] INFO  - Booking confirmed
+2025-08-12 13:00:53 [main] ERROR - Invalid result displayed
+2025-08-12 13:00:55 [main] INFO  - Clicking Booking link
+2025-08-12 13:00:55 [main] INFO  - Booking confirmed
+2025-08-12 13:01:00 [main] INFO  - Enter Data message
+2025-08-12 13:01:02 [main] INFO  - Clicking Services link
+2025-08-12 13:01:02 [main] INFO  - Clicking Mini button
+2025-08-12 13:01:05 [main] INFO  - Clicking Services link
+2025-08-12 13:01:05 [main] INFO  - Clicking Micro button
+2025-08-12 13:01:09 [main] INFO  - Clicking Services link
+2025-08-12 13:01:09 [main] INFO  - Clicking SUV button
+2025-08-12 13:01:12 [main] INFO  - Clicking Services link
+2025-08-12 13:01:13 [main] INFO  - Clicking Sedan button
